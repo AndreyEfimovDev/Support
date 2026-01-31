@@ -1,4 +1,4 @@
-# PRIVACY POLICY FOR StartToSwiftUI
+# PRIVACY POLICY
 
 **Last Updated:** 28 January 2026
 
