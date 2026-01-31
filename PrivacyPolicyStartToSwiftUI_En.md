@@ -39,11 +39,11 @@ When downloading the pre-built collection of SwiftUI materials:
 *   We do not track which collections you download.
 *   We do not know which content you view.
 
-## 4. External Links
+## 4. External References
 
-The App may contain links to external educational resources (e.g., learning videos, articles).
+The App may contain references to external educational resources (e.g., learning videos, articles).
 
-**Important:** When you follow these links, you leave our App. External sites have their own privacy policies and practices, over which we have no control and for which we accept no responsibility. We recommend reviewing the privacy policy of any external site you visit.
+**Important:** When you follow these references, you leave our App. External sites have their own privacy policies and practices, over which we have no control and for which we accept no responsibility. We recommend reviewing the privacy policy of any external site you visit.
 
 ## 5. Your Rights and Management
 
