@@ -1,16 +1,3 @@
 [
-  {
-    "isRead" : false,
-    "title" : "Test notice",
-    "noticeMessage" : "Test notice message2.",
-    "noticeDate" : "2026-02-02T00:01:08Z",
-    "id" : "2026-02-02T00:01:08Z"
-  },
-  {
-    "isRead" : false,
-    "title" : "Initial Launch",
-    "noticeMessage" : "The App version 1.1.1 is deployed on App Store.",
-    "noticeDate" : "2026-02-01T00:01:08Z",
-    "id" : "2026-02-01T00:01:08Z"
-  }
+  
 ]
