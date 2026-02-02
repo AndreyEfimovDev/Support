@@ -1,5 +1,23 @@
 [
   {
+    "id" : "50B73646-43D3-4DB5-8946-361F1BDFXXXX",
+    "favoriteChoice" : "no",
+    "category" : "SwiftUI",
+    "author" : "Nick Sarno",
+    "notes" : "",
+    "date" : "2026-02-02T10:13:55Z",
+    "origin" : "cloudNew",
+    "studyLevel" : "beginner",
+    "draft" : false,
+    "intro" : "TEST",
+    "progress" : "added",
+    "postPlatform" : "youtube",
+    "postType" : "course",
+    "status" : "active",
+    "urlString" : "https:\/\/www.youtube.com\/playlist?list=PLwvDm4Vfkdpha5eVTjLM0eRlJ7-yDDwBk",
+    "title" : "TEST added new post"
+  },
+  {
     "id" : "50B73646-43D3-4DB5-8946-361F1BDFCFCE",
     "favoriteChoice" : "no",
     "category" : "SwiftUI",
