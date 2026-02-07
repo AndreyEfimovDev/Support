@@ -2,7 +2,7 @@
   {
     "isRead" : false,
     "title" : "New App update 1.1.2(2) is available",
-    "noticeMessage" : "- Improved cross-device cloud synchronisation\n- Added sorting option for study materials (newest/oldest)\n- Minor UX enhancements",
+    "noticeMessage" : "- Improved cross-device cloud sync\n- Added sorting option for study materials (newest/oldest)\n- Minor UX enhancements",
     "noticeDate" : "2026-02-07T00:01:08Z",
     "id" : "2026-02-07T00:01:08Z"
   }
