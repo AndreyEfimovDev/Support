@@ -1,4 +1,11 @@
-[
+[ 
+  {
+    "isRead" : false,
+    "title" : "New App update 1.2.1(3) is available",
+    "noticeMessage" : "- Added an 'Original' sorting option to the filter to view materials in their default order\n- Improved overall performance\n- Various UX enhancements",
+    "noticeDate" : "2026-02-18T00:01:08Z",
+    "id" : "2026-02-18T00:01:08Z"
+  },
   {
     "isRead" : false,
     "title" : "New study materials are available",
