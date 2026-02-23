@@ -2,7 +2,7 @@
   {
     "isRead" : false,
     "title" : "New study materials are available",
-    "noticeMessage" : "6 lessons added to the curated collection:\n - [weak self] (Intermediate)\n - @escaping closures (Intermediate)\n - Download images with @escaping, Combine and Async/Await (Intermediate)\n - Struct vs Class vs Actor, Value vs Reference Types, Stack vs Heap (Intermediate)\n - Protocols (Advanced)\n - Dependency Injection (Advanced)",
+    "noticeMessage" : "6 lessons added to the curated collection:\n\n - [weak self] (Intermediate)\n - @escaping closures (Intermediate)\n - Download images with @escaping, Combine and Async/Await (Intermediate)\n - Struct vs Class vs Actor, Value vs Reference Types, Stack vs Heap (Intermediate)\n - Protocols (Advanced)\n - Dependency Injection (Advanced)",
     "noticeDate" : "2026-02-23T00:01:08Z",
     "id" : "2026-02-23T00:01:08Z"
   },
