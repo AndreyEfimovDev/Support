@@ -105,7 +105,7 @@
     "id" : "357BB93B-7F16-4150-8CB2-4F9AED259BFD",
     "draft" : false,
     "origin" : "cloudNew",
-    "intro" : "The lesson covers the different between different data types in context of and far beyond Swift Concurrency:\n(1) Structs vs Classes vs Actors\n(2) Value vs Reference Types\n(3) Stack vs Heap memory\n(4) Automatic Reference Counting (ARC) in Swift\n(5) Weak vs Strong References",
+    "intro" : "The lesson covers the differences between different data types in context of and far beyond Swift Concurrency:\n(1) Structs vs Classes vs Actors\n(2) Value vs Reference Types\n(3) Stack vs Heap memory\n(4) Automatic Reference Counting (ARC) in Swift\n(5) Weak vs Strong References",
     "postDate" : "2022-05-18T00:00:00Z",
     "studyLevel" : "middle",
     "postType" : "post",
