@@ -1,11 +1,4 @@
 [ 
-   {
-    "isRead" : false,
-    "title" : "New study materials are available",
-    "noticeMessage" : “6 lessons added to the curated collection:\n - [weak self] in Swift (Intermediate)\n- @escaping closures in Swift (Intermediate)\n- Download images with @escaping, Combine and Async/Await (Intermediate)\n- Struct vs Class vs Actor, Value vs Reference Types, Stack vs Heap (Intermediate)\n- Protocols in Swift (Advanced)\n- Dependency Injection in SwiftUI (Advanced)",
-    "noticeDate" : "2026-02-23T00:01:08Z",
-    "id" : "2026-02-23T00:01:08Z"
-  },
   {
     "isRead" : false,
     "title" : "New App update 1.2.1(3) is available",
