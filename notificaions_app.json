@@ -1,4 +1,11 @@
-[ 
+[
+  {
+    "isRead" : false,
+    "title" : "New App release 1.3.0(4) is available",
+    "noticeMessage" : "Added:\n- Materials can now be hidden and then moved to Deleted before permanent erase\n- Hidden and deleted materials can be restored to Active in the new 'Archived Materials' view\n- Notes in curated materials are now available for editing\n- The 'Random' sorting option in the filter to display materials in shuffled order\n\nImproved:\n- Curated content migrated from GitHub JSON to Firestore Cloud for faster updates\n- Search bar now supports keyboard language switching\n\nFixed:\n- A potential crash caused by distantPast date handling in Firestore\n",
+    "noticeDate" : "2026-03-03T00:01:08Z",
+    "id" : "2026-03-03T00:01:08Z"
+  },
   {
     "isRead" : false,
     "title" : "New study materials are available",
