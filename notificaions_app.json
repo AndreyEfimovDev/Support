@@ -1,4 +1,11 @@
 [
+   {
+    "isRead" : false,
+    "title" : "New study materials are available",
+    "noticeMessage" : "Two new courses have been added to the curated collection:\n - SwiftUI Crypto App (Intermediate Level)\n- SwiftUI + Firebase (Intermediate Level)",
+    "noticeDate" : "2026-03-08T00:01:08Z",
+    "id" : "2026-03-08T00:01:08Z"
+  },
   {
     "isRead" : false,
     "title" : "New App release 1.3.0(4) is available",
