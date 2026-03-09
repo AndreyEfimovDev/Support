@@ -1,6 +1,13 @@
 [
    {
     "isRead" : false,
+    "title" : "New App release 1.4.0(5) is available",
+    "noticeMessage" : "Added:\n- Push notifications — get notified about new events even when the app is closed\n- Check for App Update button in About App section to quickly verify if a newer version is available\n\nImproved:\n- URL format validation for source links",
+    "noticeDate" : "2026-03-09T00:01:08Z",
+    "id" : "2026-03-09T00:01:08Z"
+  },
+   {
+    "isRead" : false,
     "title" : "New study materials are available",
     "noticeMessage" : "Two new courses have been added to the curated collection:\n - SwiftUI Crypto App (Intermediate Level)\n- SwiftUI + Firebase (Intermediate Level)",
     "noticeDate" : "2026-03-08T00:01:08Z",
