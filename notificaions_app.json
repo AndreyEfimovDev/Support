@@ -1,6 +1,13 @@
 [
    {
     "isRead" : false,
+    "title" : "New App release 1.4.2(7) is available",
+    "noticeMessage" : "Fixed:\n- New notices briefly appeared, then disappeared after the next sync",
+    "noticeDate" : "2026-03-14T00:01:08Z",
+    "id" : "2026-03-14T00:01:08Z"
+  },
+   {
+    "isRead" : false,
     "title" : "New App release 1.4.1(6) is available",
     "noticeMessage" : "Fixed:\n- Duplicate detection during cloud import now correctly checks both ID and title, previously a material with a duplicate title could slip through if its ID was new",
     "noticeDate" : "2026-03-11T00:01:08Z",
