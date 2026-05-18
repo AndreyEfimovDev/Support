@@ -1,0 +1,997 @@
+{
+  "description" : "",
+  "cefrLevel" : "a1",
+  "coverURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/Books\/AESOPSFABLESANEWTRANSLAT\/cover.jpg",
+  "chapterBaseURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/Books\/AESOPSFABLESANEWTRANSLAT\/chapters",
+  "totalChapters" : 246,
+  "accessTier" : "free",
+  "firestoreId" : "AESOPSFABLESANEWTRANSLAT",
+  "title" : "Aesop's Fables; a new translation",
+  "chapters" : [
+    {
+      "index" : 0,
+      "title" : "Introduction"
+    },
+    {
+      "title" : "G. K. CHESTERTON",
+      "index" : 1
+    },
+    {
+      "index" : 2,
+      "title" : "ARTHUR RACKHAM\n\n\n\n1912 EDITION"
+    },
+    {
+      "title" : "IN COLOUR",
+      "index" : 3
+    },
+    {
+      "title" : "IN BLACK AND WHITE",
+      "index" : 4
+    },
+    {
+      "index" : 5,
+      "title" : "THE ASS AND HIS BURDENS"
+    },
+    {
+      "title" : "THE SHEPHERD'S BOY AND THE WOLF",
+      "index" : 6
+    },
+    {
+      "index" : 7,
+      "title" : "THE FOX AND THE GOAT"
+    },
+    {
+      "index" : 8,
+      "title" : "THE FISHERMAN AND THE SPRAT"
+    },
+    {
+      "title" : "THE BOASTING TRAVELLER",
+      "index" : 9
+    },
+    {
+      "title" : "THE CRAB AND HIS MOTHER",
+      "index" : 10
+    },
+    {
+      "index" : 11,
+      "title" : "THE ASS AND HIS SHADOW"
+    },
+    {
+      "title" : "THE FARMER AND HIS SONS",
+      "index" : 12
+    },
+    {
+      "title" : "THE DOG AND THE COOK",
+      "index" : 13
+    },
+    {
+      "index" : 14,
+      "title" : "THE MONKEY AS KING"
+    },
+    {
+      "index" : 15,
+      "title" : "THE THIEVES AND THE COCK"
+    },
+    {
+      "title" : "THE FARMER AND FORTUNE",
+      "index" : 16
+    },
+    {
+      "title" : "JUPITER AND THE MONKEY",
+      "index" : 17
+    },
+    {
+      "index" : 18,
+      "title" : "FATHER AND SONS"
+    },
+    {
+      "index" : 19,
+      "title" : "THE LAMP"
+    },
+    {
+      "index" : 20,
+      "title" : "THE OWL AND THE BIRDS"
+    },
+    {
+      "index" : 21,
+      "title" : "THE ASS IN THE LION'S SKIN"
+    },
+    {
+      "title" : "THE SHE-GOATS AND THEIR BEARDS",
+      "index" : 22
+    },
+    {
+      "index" : 23,
+      "title" : "THE OLD LION"
+    },
+    {
+      "title" : "THE BOY BATHING",
+      "index" : 24
+    },
+    {
+      "title" : "THE QUACK FROG",
+      "index" : 25
+    },
+    {
+      "index" : 26,
+      "title" : "THE SWOLLEN FOX"
+    },
+    {
+      "title" : "THE MOUSE, THE FROG, AND THE HAWK",
+      "index" : 27
+    },
+    {
+      "index" : 28,
+      "title" : "THE BOY AND THE NETTLES"
+    },
+    {
+      "index" : 29,
+      "title" : "THE PEASANT AND THE APPLE-TREE"
+    },
+    {
+      "index" : 30,
+      "title" : "THE JACKDAW AND THE PIGEONS"
+    },
+    {
+      "index" : 31,
+      "title" : "JUPITER AND THE TORTOISE"
+    },
+    {
+      "index" : 32,
+      "title" : "THE DOG IN THE MANGER"
+    },
+    {
+      "title" : "THE TWO BAGS",
+      "index" : 33
+    },
+    {
+      "index" : 34,
+      "title" : "THE OXEN AND THE AXLETREES"
+    },
+    {
+      "index" : 35,
+      "title" : "THE BOY AND THE FILBERTS"
+    },
+    {
+      "index" : 36,
+      "title" : "THE FROGS ASKING FOR A KING"
+    },
+    {
+      "index" : 37,
+      "title" : "THE OLIVE-TREE AND THE FIG-TREE"
+    },
+    {
+      "index" : 38,
+      "title" : "THE LION AND THE BOAR"
+    },
+    {
+      "title" : "THE WALNUT-TREE",
+      "index" : 39
+    },
+    {
+      "index" : 40,
+      "title" : "THE MAN AND THE LION"
+    },
+    {
+      "index" : 41,
+      "title" : "THE TORTOISE AND THE EAGLE"
+    },
+    {
+      "title" : "THE KID ON THE HOUSETOP",
+      "index" : 42
+    },
+    {
+      "index" : 43,
+      "title" : "THE FOX WITHOUT A TAIL"
+    },
+    {
+      "title" : "THE VAIN JACKDAW",
+      "index" : 44
+    },
+    {
+      "title" : "THE TRAVELLER AND HIS DOG",
+      "index" : 45
+    },
+    {
+      "title" : "THE SHIPWRECKED MAN AND THE SEA",
+      "index" : 46
+    },
+    {
+      "title" : "THE WILD BOAR AND THE FOX",
+      "index" : 47
+    },
+    {
+      "index" : 48,
+      "title" : "MERCURY AND THE SCULPTOR"
+    },
+    {
+      "index" : 49,
+      "title" : "THE FAWN AND HIS MOTHER"
+    },
+    {
+      "index" : 50,
+      "title" : "THE FOX AND THE LION"
+    },
+    {
+      "title" : "THE EAGLE AND HIS CAPTOR",
+      "index" : 51
+    },
+    {
+      "title" : "THE BLACKSMITH AND HIS DOG",
+      "index" : 52
+    },
+    {
+      "title" : "THE STAG AT THE POOL",
+      "index" : 53
+    },
+    {
+      "title" : "THE DOG AND THE SHADOW",
+      "index" : 54
+    },
+    {
+      "index" : 55,
+      "title" : "MERCURY AND THE TRADESMEN"
+    },
+    {
+      "title" : "THE MICE AND THE WEASELS",
+      "index" : 56
+    },
+    {
+      "index" : 57,
+      "title" : "THE PEACOCK AND JUNO"
+    },
+    {
+      "title" : "THE BEAR AND THE FOX",
+      "index" : 58
+    },
+    {
+      "index" : 59,
+      "title" : "THE ASS AND THE OLD PEASANT"
+    },
+    {
+      "title" : "THE OX AND THE FROG",
+      "index" : 60
+    },
+    {
+      "index" : 61,
+      "title" : "THE MAN AND THE IMAGE"
+    },
+    {
+      "index" : 62,
+      "title" : "HERCULES AND THE WAGGONER"
+    },
+    {
+      "index" : 63,
+      "title" : "THE POMEGRANATE, THE APPLE-TREE, AND THE BRAMBLE"
+    },
+    {
+      "title" : "THE LION, THE BEAR, AND THE FOX",
+      "index" : 64
+    },
+    {
+      "title" : "THE BLACKAMOOR",
+      "index" : 65
+    },
+    {
+      "title" : "THE TWO SOLDIERS AND THE ROBBER",
+      "index" : 66
+    },
+    {
+      "index" : 67,
+      "title" : "THE LION AND THE WILD ASS"
+    },
+    {
+      "index" : 68,
+      "title" : "THE MAN AND THE SATYR"
+    },
+    {
+      "index" : 69,
+      "title" : "THE IMAGE-SELLER"
+    },
+    {
+      "title" : "THE EAGLE AND THE ARROW",
+      "index" : 70
+    },
+    {
+      "title" : "THE RICH MAN AND THE TANNER",
+      "index" : 71
+    },
+    {
+      "title" : "THE WOLF, THE MOTHER, AND HER CHILD",
+      "index" : 72
+    },
+    {
+      "title" : "THE OLD WOMAN AND THE WINE-JAR",
+      "index" : 73
+    },
+    {
+      "index" : 74,
+      "title" : "THE LIONESS AND THE VIXEN"
+    },
+    {
+      "index" : 75,
+      "title" : "THE VIPER AND THE FILE"
+    },
+    {
+      "index" : 76,
+      "title" : "THE CAT AND THE COCK"
+    },
+    {
+      "title" : "THE HARE AND THE TORTOISE",
+      "index" : 77
+    },
+    {
+      "title" : "THE SOLDIER AND HIS HORSE",
+      "index" : 78
+    },
+    {
+      "title" : "THE OXEN AND THE BUTCHERS",
+      "index" : 79
+    },
+    {
+      "title" : "THE WOLF AND THE LION",
+      "index" : 80
+    },
+    {
+      "title" : "THE SHEEP, THE WOLF, AND THE STAG",
+      "index" : 81
+    },
+    {
+      "index" : 82,
+      "title" : "THE LION AND THE THREE BULLS"
+    },
+    {
+      "title" : "THE HORSE AND HIS RIDER",
+      "index" : 83
+    },
+    {
+      "title" : "THE GOAT AND THE VINE",
+      "index" : 84
+    },
+    {
+      "index" : 85,
+      "title" : "THE TWO POTS"
+    },
+    {
+      "index" : 86,
+      "title" : "THE OLD HOUND"
+    },
+    {
+      "index" : 87,
+      "title" : "THE CLOWN AND THE COUNTRYMAN"
+    },
+    {
+      "index" : 88,
+      "title" : "THE LARK AND THE FARMER"
+    },
+    {
+      "index" : 89,
+      "title" : "THE LION AND THE ASS"
+    },
+    {
+      "title" : "THE PROPHET",
+      "index" : 90
+    },
+    {
+      "title" : "THE HOUND AND THE HARE",
+      "index" : 91
+    },
+    {
+      "index" : 92,
+      "title" : "THE LION, THE MOUSE, AND THE FOX"
+    },
+    {
+      "title" : "THE TRUMPETER TAKEN PRISONER",
+      "index" : 93
+    },
+    {
+      "title" : "THE WOLF AND THE CRANE",
+      "index" : 94
+    },
+    {
+      "index" : 95,
+      "title" : "THE EAGLE, THE CAT, AND THE WILD SOW"
+    },
+    {
+      "title" : "THE WOLF AND THE SHEEP",
+      "index" : 96
+    },
+    {
+      "title" : "THE TUNNY-FISH AND THE DOLPHIN",
+      "index" : 97
+    },
+    {
+      "index" : 98,
+      "title" : "THE THREE TRADESMEN"
+    },
+    {
+      "index" : 99,
+      "title" : "THE MOUSE AND THE BULL"
+    },
+    {
+      "title" : "THE HARE AND THE HOUND",
+      "index" : 100
+    },
+    {
+      "index" : 101,
+      "title" : "THE TOWN MOUSE AND THE COUNTRY MOUSE"
+    },
+    {
+      "index" : 102,
+      "title" : "THE LION AND THE BULL"
+    },
+    {
+      "title" : "THE WOLF, THE FOX, AND THE APE",
+      "index" : 103
+    },
+    {
+      "title" : "THE EAGLE AND THE COCKS",
+      "index" : 104
+    },
+    {
+      "index" : 105,
+      "title" : "THE ESCAPED JACKDAW"
+    },
+    {
+      "index" : 106,
+      "title" : "THE FARMER AND THE FOX"
+    },
+    {
+      "index" : 107,
+      "title" : "VENUS AND THE CAT"
+    },
+    {
+      "index" : 108,
+      "title" : "THE CROW AND THE SWAN"
+    },
+    {
+      "title" : "THE STAG WITH ONE EYE",
+      "index" : 109
+    },
+    {
+      "index" : 110,
+      "title" : "THE FLY AND THE DRAUGHT-MULE"
+    },
+    {
+      "index" : 111,
+      "title" : "THE COCK AND THE JEWEL"
+    },
+    {
+      "title" : "THE WOLF AND THE SHEPHERD",
+      "index" : 112
+    },
+    {
+      "title" : "THE FARMER AND THE STORK",
+      "index" : 113
+    },
+    {
+      "title" : "THE CHARGER AND THE MILLER",
+      "index" : 114
+    },
+    {
+      "title" : "THE GRASSHOPPER AND THE OWL",
+      "index" : 115
+    },
+    {
+      "index" : 116,
+      "title" : "THE GRASSHOPPER AND THE ANTS"
+    },
+    {
+      "title" : "THE FARMER AND THE VIPER",
+      "index" : 117
+    },
+    {
+      "title" : "THE TWO FROGS",
+      "index" : 118
+    },
+    {
+      "title" : "THE COBBLER TURNED DOCTOR",
+      "index" : 119
+    },
+    {
+      "index" : 120,
+      "title" : "THE ASS, THE COCK, AND THE LION"
+    },
+    {
+      "index" : 121,
+      "title" : "THE BELLY AND THE MEMBERS"
+    },
+    {
+      "title" : "THE BALD MAN AND THE FLY",
+      "index" : 122
+    },
+    {
+      "title" : "THE ASS AND THE WOLF",
+      "index" : 123
+    },
+    {
+      "index" : 124,
+      "title" : "THE MONKEY AND THE CAMEL"
+    },
+    {
+      "index" : 125,
+      "title" : "THE SICK MAN AND THE DOCTOR"
+    },
+    {
+      "title" : "THE TRAVELLERS AND THE PLANE-TREE",
+      "index" : 126
+    },
+    {
+      "index" : 127,
+      "title" : "THE FLEA AND THE OX"
+    },
+    {
+      "index" : 128,
+      "title" : "THE BIRDS, THE BEASTS, AND THE BAT"
+    },
+    {
+      "index" : 129,
+      "title" : "THE MAN AND HIS TWO SWEETHEARTS"
+    },
+    {
+      "title" : "THE EAGLE, THE JACKDAW, AND THE SHEPHERD",
+      "index" : 130
+    },
+    {
+      "index" : 131,
+      "title" : "THE WOLF AND THE BOY"
+    },
+    {
+      "index" : 132,
+      "title" : "THE MILLER, HIS SON, AND THEIR ASS"
+    },
+    {
+      "title" : "THE STAG AND THE VINE",
+      "index" : 133
+    },
+    {
+      "index" : 134,
+      "title" : "THE LAMB CHASED BY A WOLF"
+    },
+    {
+      "title" : "THE ARCHER AND THE LION",
+      "index" : 135
+    },
+    {
+      "index" : 136,
+      "title" : "THE WOLF AND THE GOAT"
+    },
+    {
+      "index" : 137,
+      "title" : "THE SICK STAG"
+    },
+    {
+      "index" : 138,
+      "title" : "THE ASS AND THE MULE"
+    },
+    {
+      "index" : 139,
+      "title" : "BROTHER AND SISTER"
+    },
+    {
+      "title" : "THE HEIFER AND THE OX",
+      "index" : 140
+    },
+    {
+      "title" : "THE KINGDOM OF THE LION",
+      "index" : 141
+    },
+    {
+      "title" : "THE ASS AND HIS DRIVER",
+      "index" : 142
+    },
+    {
+      "title" : "THE LION AND THE HARE",
+      "index" : 143
+    },
+    {
+      "title" : "THE WOLVES AND THE DOGS",
+      "index" : 144
+    },
+    {
+      "title" : "THE BULL AND THE CALF",
+      "index" : 145
+    },
+    {
+      "title" : "THE TREES AND THE AXE",
+      "index" : 146
+    },
+    {
+      "index" : 147,
+      "title" : "THE ASTRONOMER"
+    },
+    {
+      "title" : "THE LABOURER AND THE SNAKE",
+      "index" : 148
+    },
+    {
+      "index" : 149,
+      "title" : "THE CAGE-BIRD AND THE BAT"
+    },
+    {
+      "index" : 150,
+      "title" : "THE ASS AND HIS PURCHASER"
+    },
+    {
+      "index" : 151,
+      "title" : "THE KID AND THE WOLF"
+    },
+    {
+      "index" : 152,
+      "title" : "THE DEBTOR AND HIS SOW"
+    },
+    {
+      "index" : 153,
+      "title" : "THE BALD HUNTSMAN"
+    },
+    {
+      "title" : "THE HERDSMAN AND THE LOST BULL",
+      "index" : 154
+    },
+    {
+      "title" : "THE MULE",
+      "index" : 155
+    },
+    {
+      "title" : "THE HOUND AND THE FOX",
+      "index" : 156
+    },
+    {
+      "index" : 157,
+      "title" : "THE FATHER AND HIS DAUGHTERS"
+    },
+    {
+      "index" : 158,
+      "title" : "THE THIEF AND THE INNKEEPER"
+    },
+    {
+      "index" : 159,
+      "title" : "THE PACK-ASS AND THE WILD ASS"
+    },
+    {
+      "index" : 160,
+      "title" : "THE ASS AND HIS MASTERS"
+    },
+    {
+      "title" : "THE PACK-ASS, THE WILD ASS, AND THE LION",
+      "index" : 161
+    },
+    {
+      "index" : 162,
+      "title" : "THE ANT"
+    },
+    {
+      "index" : 163,
+      "title" : "THE FROGS AND THE WELL"
+    },
+    {
+      "index" : 164,
+      "title" : "THE CRAB AND THE FOX"
+    },
+    {
+      "index" : 165,
+      "title" : "THE FOX AND THE GRASSHOPPER"
+    },
+    {
+      "index" : 166,
+      "title" : "THE FARMER, HIS BOY, AND THE ROOKS"
+    },
+    {
+      "index" : 167,
+      "title" : "THE ASS AND THE DOG"
+    },
+    {
+      "index" : 168,
+      "title" : "THE ASS CARRYING THE IMAGE"
+    },
+    {
+      "title" : "THE ATHENIAN AND THE THEBAN",
+      "index" : 169
+    },
+    {
+      "index" : 170,
+      "title" : "THE GOATHERD AND THE GOAT"
+    },
+    {
+      "title" : "THE SHEEP AND THE DOG",
+      "index" : 171
+    },
+    {
+      "index" : 172,
+      "title" : "THE SHEPHERD AND THE WOLF"
+    },
+    {
+      "index" : 173,
+      "title" : "THE LION, JUPITER, AND THE ELEPHANT"
+    },
+    {
+      "index" : 174,
+      "title" : "THE PIG AND THE SHEEP"
+    },
+    {
+      "index" : 175,
+      "title" : "THE GARDENER AND HIS DOG"
+    },
+    {
+      "title" : "THE RIVERS AND THE SEA",
+      "index" : 176
+    },
+    {
+      "title" : "THE LION IN LOVE",
+      "index" : 177
+    },
+    {
+      "index" : 178,
+      "title" : "THE BEE-KEEPER"
+    },
+    {
+      "title" : "THE WOLF AND THE HORSE",
+      "index" : 179
+    },
+    {
+      "title" : "THE BAT, THE BRAMBLE, AND THE SEAGULL",
+      "index" : 180
+    },
+    {
+      "title" : "THE DOG AND THE WOLF",
+      "index" : 181
+    },
+    {
+      "index" : 182,
+      "title" : "THE WASP AND THE SNAKE"
+    },
+    {
+      "index" : 183,
+      "title" : "THE EAGLE AND THE BEETLE"
+    },
+    {
+      "index" : 184,
+      "title" : "THE FOWLER AND THE LARK"
+    },
+    {
+      "title" : "THE FISHERMAN PIPING",
+      "index" : 185
+    },
+    {
+      "index" : 186,
+      "title" : "THE WEASEL AND THE MAN"
+    },
+    {
+      "index" : 187,
+      "title" : "THE PLOUGHMAN, THE ASS, AND THE OX"
+    },
+    {
+      "title" : "DEMADES AND HIS FABLE",
+      "index" : 188
+    },
+    {
+      "title" : "THE MONKEY AND THE DOLPHIN",
+      "index" : 189
+    },
+    {
+      "index" : 190,
+      "title" : "THE CROW AND THE SNAKE"
+    },
+    {
+      "title" : "THE DOGS AND THE FOX",
+      "index" : 191
+    },
+    {
+      "title" : "THE NIGHTINGALE AND THE HAWK",
+      "index" : 192
+    },
+    {
+      "index" : 193,
+      "title" : "THE ROSE AND THE AMARANTH"
+    },
+    {
+      "title" : "THE MAN, THE HORSE, THE OX, AND THE DOG",
+      "index" : 194
+    },
+    {
+      "title" : "THE WOLVES, THE SHEEP, AND THE RAM",
+      "index" : 195
+    },
+    {
+      "index" : 196,
+      "title" : "THE SWAN"
+    },
+    {
+      "index" : 197,
+      "title" : "THE SNAKE AND JUPITER"
+    },
+    {
+      "title" : "THE WOLF AND HIS SHADOW",
+      "index" : 198
+    },
+    {
+      "index" : 199,
+      "title" : "THE PLOUGHMAN AND THE WOLF"
+    },
+    {
+      "index" : 200,
+      "title" : "MERCURY AND THE MAN BITTEN BY AN ANT"
+    },
+    {
+      "index" : 201,
+      "title" : "THE WILY LION"
+    },
+    {
+      "index" : 202,
+      "title" : "THE PARROT AND THE CAT"
+    },
+    {
+      "title" : "THE STAG AND THE LION",
+      "index" : 203
+    },
+    {
+      "index" : 204,
+      "title" : "THE IMPOSTOR"
+    },
+    {
+      "index" : 205,
+      "title" : "THE DOGS AND THE HIDES"
+    },
+    {
+      "title" : "THE LION, THE FOX, AND THE ASS",
+      "index" : 206
+    },
+    {
+      "index" : 207,
+      "title" : "THE FOWLER, THE PARTRIDGE, AND THE COCK"
+    },
+    {
+      "index" : 208,
+      "title" : "THE GNAT AND THE LION"
+    },
+    {
+      "title" : "THE FARMER AND HIS DOGS",
+      "index" : 209
+    },
+    {
+      "index" : 210,
+      "title" : "THE EAGLE AND THE FOX"
+    },
+    {
+      "title" : "THE BUTCHER AND HIS CUSTOMERS",
+      "index" : 211
+    },
+    {
+      "title" : "HERCULES AND MINERVA",
+      "index" : 212
+    },
+    {
+      "index" : 213,
+      "title" : "THE FOX WHO SERVED A LION"
+    },
+    {
+      "title" : "THE QUACK DOCTOR",
+      "index" : 214
+    },
+    {
+      "index" : 215,
+      "title" : "THE LION, THE WOLF, AND THE FOX"
+    },
+    {
+      "index" : 216,
+      "title" : "HERCULES AND PLUTUS"
+    },
+    {
+      "title" : "THE FOX AND THE LEOPARD",
+      "index" : 217
+    },
+    {
+      "title" : "THE FOX AND THE HEDGEHOG",
+      "index" : 218
+    },
+    {
+      "index" : 219,
+      "title" : "THE CROW AND THE RAVEN"
+    },
+    {
+      "index" : 220,
+      "title" : "THE WITCH"
+    },
+    {
+      "title" : "THE OLD MAN AND DEATH",
+      "index" : 221
+    },
+    {
+      "title" : "THE MISER",
+      "index" : 222
+    },
+    {
+      "index" : 223,
+      "title" : "THE FOXES AND THE RIVER"
+    },
+    {
+      "title" : "THE HORSE AND THE STAG",
+      "index" : 224
+    },
+    {
+      "title" : "THE FOX AND THE BRAMBLE",
+      "index" : 225
+    },
+    {
+      "index" : 226,
+      "title" : "THE FOX AND THE SNAKE"
+    },
+    {
+      "title" : "THE LION, THE FOX, AND THE STAG",
+      "index" : 227
+    },
+    {
+      "title" : "THE MAN WHO LOST HIS SPADE",
+      "index" : 228
+    },
+    {
+      "index" : 229,
+      "title" : "THE PARTRIDGE AND THE FOWLER"
+    },
+    {
+      "index" : 230,
+      "title" : "THE RUNAWAY SLAVE"
+    },
+    {
+      "index" : 231,
+      "title" : "THE HUNTER AND THE WOODMAN"
+    },
+    {
+      "title" : "THE SERPENT AND THE EAGLE",
+      "index" : 232
+    },
+    {
+      "title" : "THE ROGUE AND THE ORACLE",
+      "index" : 233
+    },
+    {
+      "index" : 234,
+      "title" : "THE HORSE AND THE ASS"
+    },
+    {
+      "index" : 235,
+      "title" : "THE DOG CHASING A WOLF"
+    },
+    {
+      "title" : "GRIEF AND HIS DUE",
+      "index" : 236
+    },
+    {
+      "title" : "THE HAWK, THE KITE, AND THE PIGEONS",
+      "index" : 237
+    },
+    {
+      "index" : 238,
+      "title" : "THE WOMAN AND THE FARMER"
+    },
+    {
+      "title" : "PROMETHEUS AND THE MAKING OF MAN",
+      "index" : 239
+    },
+    {
+      "index" : 240,
+      "title" : "THE SWALLOW AND THE CROW"
+    },
+    {
+      "index" : 241,
+      "title" : "THE HUNTER AND THE HORSEMAN"
+    },
+    {
+      "index" : 242,
+      "title" : "THE GOATHERD AND THE WILD GOATS"
+    },
+    {
+      "title" : "THE NIGHTINGALE AND THE SWALLOW",
+      "index" : 243
+    },
+    {
+      "index" : 244,
+      "title" : "THE TRAVELLER AND FORTUNE"
+    },
+    {
+      "index" : 245,
+      "title" : "THE FULL PROJECT GUTENBERG™ LICENSE"
+    }
+  ],
+  "author" : "Aesop"
+}
