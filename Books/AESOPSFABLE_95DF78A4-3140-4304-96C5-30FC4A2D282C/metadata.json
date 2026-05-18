@@ -1,8 +1,8 @@
 {
   "description" : "",
   "cefrLevel" : "a1",
-  "coverURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/books\/AESOPSFABLE_95DF78A4-3140-4304-96C5-30FC4A2D282C\/cover.jpg",
-  "chapterBaseURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/books\/AESOPSFABLE_95DF78A4-3140-4304-96C5-30FC4A2D282C\/chapters",
+  "coverURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/Books\/AESOPSFABLE_95DF78A4-3140-4304-96C5-30FC4A2D282C\/cover.jpg",
+  "chapterBaseURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/Books\/AESOPSFABLE_95DF78A4-3140-4304-96C5-30FC4A2D282C\/chapters",
   "chapters" : [
     {
       "title" : "Chapter 1",
