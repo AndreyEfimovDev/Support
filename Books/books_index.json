@@ -1,0 +1,7 @@
+{
+  "books": [
+    "https://raw.githubusercontent.com/AndreyEfimovDev/Support/main/Books/AESOPSFABLESANEWTRANSLAT/metadata.json",
+    "https://raw.githubusercontent.com/AndreyEfimovDev/Support/main/Books/CALLOFTHEWILD/metadata.json",
+    "https://raw.githubusercontent.com/AndreyEfimovDev/Support/main/Books/PICTUREOFDORIANGRAY/metadata.json"
+  ]
+}
