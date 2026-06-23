@@ -1,9 +1,4 @@
 {
-  "author" : "Oscar Wilde",
-  "firestoreId" : "THEPICTUREOFDORIANGRAY",
-  "totalChapters" : 25,
-  "accessTier" : "pro",
-  "coverURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/Books\/THEPICTUREOFDORIANGRAY\/cover.jpg",
   "chapters" : [
     {
       "index" : 0,
@@ -18,96 +13,649 @@
       "index" : 2
     },
     {
-      "title" : "THE PREFACE",
-      "index" : 3
+      "index" : 3,
+      "title" : "THE PREFACE"
     },
     {
-      "index" : 4,
-      "title" : "CHAPTER I."
+      "title" : "CHAPTER I.",
+      "index" : 4
     },
     {
-      "title" : "CHAPTER II.",
-      "index" : 5
+      "index" : 5,
+      "title" : "CHAPTER I. (2)"
     },
     {
       "index" : 6,
-      "title" : "CHAPTER III."
+      "title" : "CHAPTER I. (3)"
     },
     {
       "index" : 7,
-      "title" : "CHAPTER IV."
+      "title" : "CHAPTER I. (4)"
     },
     {
-      "title" : "CHAPTER V.",
-      "index" : 8
+      "index" : 8,
+      "title" : "CHAPTER I. (5)"
     },
     {
       "index" : 9,
-      "title" : "CHAPTER VI."
+      "title" : "CHAPTER I. (6)"
     },
     {
-      "index" : 10,
-      "title" : "CHAPTER VII."
+      "title" : "CHAPTER I. (7)",
+      "index" : 10
     },
     {
       "index" : 11,
-      "title" : "CHAPTER VIII."
+      "title" : "CHAPTER I. (8)"
     },
     {
       "index" : 12,
-      "title" : "CHAPTER IX."
+      "title" : "CHAPTER I. (9)"
     },
     {
       "index" : 13,
-      "title" : "CHAPTER X."
+      "title" : "CHAPTER II."
     },
     {
       "index" : 14,
-      "title" : "CHAPTER XI."
+      "title" : "CHAPTER II. (2)"
     },
     {
-      "title" : "CHAPTER XII.",
-      "index" : 15
+      "index" : 15,
+      "title" : "CHAPTER II. (3)"
     },
     {
-      "title" : "CHAPTER XIII.",
-      "index" : 16
+      "index" : 16,
+      "title" : "CHAPTER II. (4)"
     },
     {
-      "title" : "CHAPTER XIV.",
-      "index" : 17
+      "index" : 17,
+      "title" : "CHAPTER II. (5)"
     },
     {
-      "index" : 18,
-      "title" : "CHAPTER XV."
+      "title" : "CHAPTER II. (6)",
+      "index" : 18
     },
     {
-      "title" : "CHAPTER XVI.",
-      "index" : 19
+      "index" : 19,
+      "title" : "CHAPTER II. (7)"
     },
     {
-      "title" : "CHAPTER XVII.",
+      "title" : "CHAPTER II. (8)",
       "index" : 20
     },
     {
-      "title" : "CHAPTER XVIII.",
+      "title" : "CHAPTER II. (9)",
       "index" : 21
     },
     {
-      "index" : 22,
-      "title" : "CHAPTER XIX."
+      "title" : "CHAPTER II. (10)",
+      "index" : 22
     },
     {
-      "index" : 23,
-      "title" : "CHAPTER XX."
+      "title" : "CHAPTER II. (11)",
+      "index" : 23
     },
     {
       "index" : 24,
+      "title" : "CHAPTER II. (12)"
+    },
+    {
+      "index" : 25,
+      "title" : "CHAPTER II. (13)"
+    },
+    {
+      "index" : 26,
+      "title" : "CHAPTER II. (14)"
+    },
+    {
+      "index" : 27,
+      "title" : "CHAPTER III."
+    },
+    {
+      "index" : 28,
+      "title" : "CHAPTER III. (2)"
+    },
+    {
+      "title" : "CHAPTER III. (3)",
+      "index" : 29
+    },
+    {
+      "index" : 30,
+      "title" : "CHAPTER III. (4)"
+    },
+    {
+      "title" : "CHAPTER III. (5)",
+      "index" : 31
+    },
+    {
+      "index" : 32,
+      "title" : "CHAPTER III. (6)"
+    },
+    {
+      "index" : 33,
+      "title" : "CHAPTER III. (7)"
+    },
+    {
+      "index" : 34,
+      "title" : "CHAPTER III. (8)"
+    },
+    {
+      "index" : 35,
+      "title" : "CHAPTER III. (9)"
+    },
+    {
+      "title" : "CHAPTER III. (10)",
+      "index" : 36
+    },
+    {
+      "index" : 37,
+      "title" : "CHAPTER IV."
+    },
+    {
+      "index" : 38,
+      "title" : "CHAPTER IV. (2)"
+    },
+    {
+      "index" : 39,
+      "title" : "CHAPTER IV. (3)"
+    },
+    {
+      "index" : 40,
+      "title" : "CHAPTER IV. (4)"
+    },
+    {
+      "title" : "CHAPTER IV. (5)",
+      "index" : 41
+    },
+    {
+      "title" : "CHAPTER IV. (6)",
+      "index" : 42
+    },
+    {
+      "index" : 43,
+      "title" : "CHAPTER IV. (7)"
+    },
+    {
+      "title" : "CHAPTER IV. (8)",
+      "index" : 44
+    },
+    {
+      "index" : 45,
+      "title" : "CHAPTER IV. (9)"
+    },
+    {
+      "index" : 46,
+      "title" : "CHAPTER IV. (10)"
+    },
+    {
+      "index" : 47,
+      "title" : "CHAPTER IV. (11)"
+    },
+    {
+      "title" : "CHAPTER V.",
+      "index" : 48
+    },
+    {
+      "index" : 49,
+      "title" : "CHAPTER V. (2)"
+    },
+    {
+      "index" : 50,
+      "title" : "CHAPTER V. (3)"
+    },
+    {
+      "title" : "CHAPTER V. (4)",
+      "index" : 51
+    },
+    {
+      "title" : "CHAPTER V. (5)",
+      "index" : 52
+    },
+    {
+      "title" : "CHAPTER V. (6)",
+      "index" : 53
+    },
+    {
+      "index" : 54,
+      "title" : "CHAPTER V. (7)"
+    },
+    {
+      "index" : 55,
+      "title" : "CHAPTER V. (8)"
+    },
+    {
+      "index" : 56,
+      "title" : "CHAPTER V. (9)"
+    },
+    {
+      "index" : 57,
+      "title" : "CHAPTER V. (10)"
+    },
+    {
+      "index" : 58,
+      "title" : "CHAPTER VI."
+    },
+    {
+      "index" : 59,
+      "title" : "CHAPTER VI. (2)"
+    },
+    {
+      "index" : 60,
+      "title" : "CHAPTER VI. (3)"
+    },
+    {
+      "title" : "CHAPTER VI. (4)",
+      "index" : 61
+    },
+    {
+      "index" : 62,
+      "title" : "CHAPTER VI. (5)"
+    },
+    {
+      "index" : 63,
+      "title" : "CHAPTER VI. (6)"
+    },
+    {
+      "index" : 64,
+      "title" : "CHAPTER VII."
+    },
+    {
+      "index" : 65,
+      "title" : "CHAPTER VII. (2)"
+    },
+    {
+      "title" : "CHAPTER VII. (3)",
+      "index" : 66
+    },
+    {
+      "index" : 67,
+      "title" : "CHAPTER VII. (4)"
+    },
+    {
+      "title" : "CHAPTER VII. (5)",
+      "index" : 68
+    },
+    {
+      "title" : "CHAPTER VII. (6)",
+      "index" : 69
+    },
+    {
+      "index" : 70,
+      "title" : "CHAPTER VIII."
+    },
+    {
+      "index" : 71,
+      "title" : "CHAPTER VIII. (2)"
+    },
+    {
+      "title" : "CHAPTER VIII. (3)",
+      "index" : 72
+    },
+    {
+      "title" : "CHAPTER VIII. (4)",
+      "index" : 73
+    },
+    {
+      "title" : "CHAPTER VIII. (5)",
+      "index" : 74
+    },
+    {
+      "index" : 75,
+      "title" : "CHAPTER VIII. (6)"
+    },
+    {
+      "title" : "CHAPTER VIII. (7)",
+      "index" : 76
+    },
+    {
+      "title" : "CHAPTER VIII. (8)",
+      "index" : 77
+    },
+    {
+      "title" : "CHAPTER IX.",
+      "index" : 78
+    },
+    {
+      "index" : 79,
+      "title" : "CHAPTER IX. (2)"
+    },
+    {
+      "index" : 80,
+      "title" : "CHAPTER IX. (3)"
+    },
+    {
+      "index" : 81,
+      "title" : "CHAPTER IX. (4)"
+    },
+    {
+      "index" : 82,
+      "title" : "CHAPTER IX. (5)"
+    },
+    {
+      "index" : 83,
+      "title" : "CHAPTER IX. (6)"
+    },
+    {
+      "index" : 84,
+      "title" : "CHAPTER IX. (7)"
+    },
+    {
+      "index" : 85,
+      "title" : "CHAPTER X."
+    },
+    {
+      "title" : "CHAPTER X. (2)",
+      "index" : 86
+    },
+    {
+      "index" : 87,
+      "title" : "CHAPTER X. (3)"
+    },
+    {
+      "title" : "CHAPTER X. (4)",
+      "index" : 88
+    },
+    {
+      "title" : "CHAPTER X. (5)",
+      "index" : 89
+    },
+    {
+      "index" : 90,
+      "title" : "CHAPTER XI."
+    },
+    {
+      "title" : "CHAPTER XI. (2)",
+      "index" : 91
+    },
+    {
+      "index" : 92,
+      "title" : "CHAPTER XI. (3)"
+    },
+    {
+      "index" : 93,
+      "title" : "CHAPTER XI. (4)"
+    },
+    {
+      "title" : "CHAPTER XII.",
+      "index" : 94
+    },
+    {
+      "title" : "CHAPTER XII. (2)",
+      "index" : 95
+    },
+    {
+      "index" : 96,
+      "title" : "CHAPTER XII. (3)"
+    },
+    {
+      "title" : "CHAPTER XII. (4)",
+      "index" : 97
+    },
+    {
+      "title" : "CHAPTER XIII.",
+      "index" : 98
+    },
+    {
+      "title" : "CHAPTER XIII. (2)",
+      "index" : 99
+    },
+    {
+      "index" : 100,
+      "title" : "CHAPTER XIII. (3)"
+    },
+    {
+      "index" : 101,
+      "title" : "CHAPTER XIII. (4)"
+    },
+    {
+      "index" : 102,
+      "title" : "CHAPTER XIII. (5)"
+    },
+    {
+      "title" : "CHAPTER XIII. (6)",
+      "index" : 103
+    },
+    {
+      "index" : 104,
+      "title" : "CHAPTER XIV."
+    },
+    {
+      "index" : 105,
+      "title" : "CHAPTER XIV. (2)"
+    },
+    {
+      "title" : "CHAPTER XIV. (3)",
+      "index" : 106
+    },
+    {
+      "index" : 107,
+      "title" : "CHAPTER XIV. (4)"
+    },
+    {
+      "title" : "CHAPTER XIV. (5)",
+      "index" : 108
+    },
+    {
+      "index" : 109,
+      "title" : "CHAPTER XIV. (6)"
+    },
+    {
+      "title" : "CHAPTER XIV. (7)",
+      "index" : 110
+    },
+    {
+      "title" : "CHAPTER XIV. (8)",
+      "index" : 111
+    },
+    {
+      "index" : 112,
+      "title" : "CHAPTER XIV. (9)"
+    },
+    {
+      "index" : 113,
+      "title" : "CHAPTER XIV. (10)"
+    },
+    {
+      "title" : "CHAPTER XV.",
+      "index" : 114
+    },
+    {
+      "index" : 115,
+      "title" : "CHAPTER XV. (2)"
+    },
+    {
+      "title" : "CHAPTER XV. (3)",
+      "index" : 116
+    },
+    {
+      "title" : "CHAPTER XV. (4)",
+      "index" : 117
+    },
+    {
+      "title" : "CHAPTER XV. (5)",
+      "index" : 118
+    },
+    {
+      "index" : 119,
+      "title" : "CHAPTER XV. (6)"
+    },
+    {
+      "index" : 120,
+      "title" : "CHAPTER XV. (7)"
+    },
+    {
+      "index" : 121,
+      "title" : "CHAPTER XV. (8)"
+    },
+    {
+      "title" : "CHAPTER XV. (9)",
+      "index" : 122
+    },
+    {
+      "index" : 123,
+      "title" : "CHAPTER XVI."
+    },
+    {
+      "index" : 124,
+      "title" : "CHAPTER XVI. (2)"
+    },
+    {
+      "title" : "CHAPTER XVI. (3)",
+      "index" : 125
+    },
+    {
+      "index" : 126,
+      "title" : "CHAPTER XVI. (4)"
+    },
+    {
+      "title" : "CHAPTER XVI. (5)",
+      "index" : 127
+    },
+    {
+      "title" : "CHAPTER XVI. (6)",
+      "index" : 128
+    },
+    {
+      "index" : 129,
+      "title" : "CHAPTER XVI. (7)"
+    },
+    {
+      "index" : 130,
+      "title" : "CHAPTER XVI. (8)"
+    },
+    {
+      "index" : 131,
+      "title" : "CHAPTER XVII."
+    },
+    {
+      "title" : "CHAPTER XVII. (2)",
+      "index" : 132
+    },
+    {
+      "index" : 133,
+      "title" : "CHAPTER XVII. (3)"
+    },
+    {
+      "index" : 134,
+      "title" : "CHAPTER XVII. (4)"
+    },
+    {
+      "index" : 135,
+      "title" : "CHAPTER XVII. (5)"
+    },
+    {
+      "index" : 136,
+      "title" : "CHAPTER XVII. (6)"
+    },
+    {
+      "title" : "CHAPTER XVII. (7)",
+      "index" : 137
+    },
+    {
+      "index" : 138,
+      "title" : "CHAPTER XVII. (8)"
+    },
+    {
+      "index" : 139,
+      "title" : "CHAPTER XVII. (9)"
+    },
+    {
+      "index" : 140,
+      "title" : "CHAPTER XVII. (10)"
+    },
+    {
+      "index" : 141,
+      "title" : "CHAPTER XVII. (11)"
+    },
+    {
+      "title" : "CHAPTER XVII. (12)",
+      "index" : 142
+    },
+    {
+      "title" : "CHAPTER XVIII.",
+      "index" : 143
+    },
+    {
+      "index" : 144,
+      "title" : "CHAPTER XVIII. (2)"
+    },
+    {
+      "title" : "CHAPTER XVIII. (3)",
+      "index" : 145
+    },
+    {
+      "index" : 146,
+      "title" : "CHAPTER XVIII. (4)"
+    },
+    {
+      "index" : 147,
+      "title" : "CHAPTER XVIII. (5)"
+    },
+    {
+      "index" : 148,
+      "title" : "CHAPTER XVIII. (6)"
+    },
+    {
+      "title" : "CHAPTER XVIII. (7)",
+      "index" : 149
+    },
+    {
+      "title" : "CHAPTER XVIII. (8)",
+      "index" : 150
+    },
+    {
+      "title" : "CHAPTER XVIII. (9)",
+      "index" : 151
+    },
+    {
+      "title" : "CHAPTER XVIII. (10)",
+      "index" : 152
+    },
+    {
+      "title" : "CHAPTER XIX.",
+      "index" : 153
+    },
+    {
+      "index" : 154,
+      "title" : "CHAPTER XIX. (2)"
+    },
+    {
+      "title" : "CHAPTER XIX. (3)",
+      "index" : 155
+    },
+    {
+      "title" : "CHAPTER XIX. (4)",
+      "index" : 156
+    },
+    {
+      "title" : "CHAPTER XIX. (5)",
+      "index" : 157
+    },
+    {
+      "index" : 158,
+      "title" : "CHAPTER XIX. (6)"
+    },
+    {
+      "title" : "CHAPTER XX.",
+      "index" : 159
+    },
+    {
+      "index" : 160,
+      "title" : "CHAPTER XX. (2)"
+    },
+    {
+      "index" : 161,
       "title" : "THE FULL PROJECT GUTENBERG™ LICENSE"
     }
   ],
-  "chapterBaseURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/Books\/THEPICTUREOFDORIANGRAY\/chapters",
-  "description" : "",
+  "accessTier" : "pro",
+  "totalChapters" : 162,
   "title" : "The Picture of Dorian Gray",
+  "firestoreId" : "THEPICTUREOFDORIANGRAY",
+  "chapterBaseURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/Books\/THEPICTUREOFDORIANGRAY\/chapters",
+  "author" : "Oscar Wilde",
+  "coverURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/Books\/THEPICTUREOFDORIANGRAY\/cover.jpg",
+  "description" : "",
   "cefrLevel" : "c1"
 }
