@@ -1,0 +1,113 @@
+{
+  "author" : "Oscar Wilde",
+  "firestoreId" : "THEPICTUREOFDORIANGRAY",
+  "totalChapters" : 25,
+  "accessTier" : "pro",
+  "coverURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/Books\/THEPICTUREOFDORIANGRAY\/cover.jpg",
+  "chapters" : [
+    {
+      "index" : 0,
+      "title" : "The Project Gutenberg eBook of The Picture of Dorian Gray"
+    },
+    {
+      "title" : "by Oscar Wilde",
+      "index" : 1
+    },
+    {
+      "title" : "Contents",
+      "index" : 2
+    },
+    {
+      "title" : "THE PREFACE",
+      "index" : 3
+    },
+    {
+      "index" : 4,
+      "title" : "CHAPTER I."
+    },
+    {
+      "title" : "CHAPTER II.",
+      "index" : 5
+    },
+    {
+      "index" : 6,
+      "title" : "CHAPTER III."
+    },
+    {
+      "index" : 7,
+      "title" : "CHAPTER IV."
+    },
+    {
+      "title" : "CHAPTER V.",
+      "index" : 8
+    },
+    {
+      "index" : 9,
+      "title" : "CHAPTER VI."
+    },
+    {
+      "index" : 10,
+      "title" : "CHAPTER VII."
+    },
+    {
+      "index" : 11,
+      "title" : "CHAPTER VIII."
+    },
+    {
+      "index" : 12,
+      "title" : "CHAPTER IX."
+    },
+    {
+      "index" : 13,
+      "title" : "CHAPTER X."
+    },
+    {
+      "index" : 14,
+      "title" : "CHAPTER XI."
+    },
+    {
+      "title" : "CHAPTER XII.",
+      "index" : 15
+    },
+    {
+      "title" : "CHAPTER XIII.",
+      "index" : 16
+    },
+    {
+      "title" : "CHAPTER XIV.",
+      "index" : 17
+    },
+    {
+      "index" : 18,
+      "title" : "CHAPTER XV."
+    },
+    {
+      "title" : "CHAPTER XVI.",
+      "index" : 19
+    },
+    {
+      "title" : "CHAPTER XVII.",
+      "index" : 20
+    },
+    {
+      "title" : "CHAPTER XVIII.",
+      "index" : 21
+    },
+    {
+      "index" : 22,
+      "title" : "CHAPTER XIX."
+    },
+    {
+      "index" : 23,
+      "title" : "CHAPTER XX."
+    },
+    {
+      "index" : 24,
+      "title" : "THE FULL PROJECT GUTENBERG™ LICENSE"
+    }
+  ],
+  "chapterBaseURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/Books\/THEPICTUREOFDORIANGRAY\/chapters",
+  "description" : "",
+  "title" : "The Picture of Dorian Gray",
+  "cefrLevel" : "c1"
+}
