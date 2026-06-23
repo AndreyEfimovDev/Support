@@ -1,57 +1,173 @@
 {
-  "title" : "The call of the wild",
   "author" : "Jack London",
-  "description" : "",
-  "accessTier" : "go",
+  "firestoreId" : "THECALLOFTHEWILD",
   "chapterBaseURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/Books\/THECALLOFTHEWILD\/chapters",
-  "coverURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/Books\/THECALLOFTHEWILD\/cover.jpg",
+  "totalChapters" : 40,
+  "description" : "",
   "cefrLevel" : "b1",
-  "totalChapters" : 11,
+  "accessTier" : "go",
+  "coverURL" : "https:\/\/raw.githubusercontent.com\/AndreyEfimovDev\/Support\/main\/Books\/THECALLOFTHEWILD\/cover.jpg",
   "chapters" : [
     {
-      "title" : "The Project Gutenberg eBook of The call of the wild",
-      "index" : 0
+      "index" : 0,
+      "title" : "The Project Gutenberg eBook of The call of the wild"
     },
     {
       "title" : "by Jack London",
       "index" : 1
     },
     {
-      "title" : "Contents",
-      "index" : 2
+      "index" : 2,
+      "title" : "Contents"
     },
     {
       "index" : 3,
       "title" : "Chapter I. Into the Primitive"
     },
     {
-      "title" : "Chapter II. The Law of Club and Fang",
+      "title" : "Chapter I. Into the Primitive (2)",
       "index" : 4
     },
     {
       "index" : 5,
-      "title" : "Chapter III. The Dominant Primordial Beast"
+      "title" : "Chapter I. Into the Primitive (3)"
     },
     {
       "index" : 6,
-      "title" : "Chapter IV. Who Has Won to Mastership"
+      "title" : "Chapter I. Into the Primitive (4)"
     },
     {
-      "title" : "Chapter V. The Toil of Trace and Trail",
-      "index" : 7
+      "index" : 7,
+      "title" : "Chapter I. Into the Primitive (5)"
     },
     {
       "index" : 8,
-      "title" : "Chapter VI. For the Love of a Man"
+      "title" : "Chapter II. The Law of Club and Fang"
     },
     {
       "index" : 9,
-      "title" : "Chapter VII. The Sounding of the Call"
+      "title" : "Chapter II. The Law of Club and Fang (2)"
     },
     {
       "index" : 10,
+      "title" : "Chapter II. The Law of Club and Fang (3)"
+    },
+    {
+      "title" : "Chapter III. The Dominant Primordial Beast",
+      "index" : 11
+    },
+    {
+      "index" : 12,
+      "title" : "Chapter III. The Dominant Primordial Beast (2)"
+    },
+    {
+      "index" : 13,
+      "title" : "Chapter III. The Dominant Primordial Beast (3)"
+    },
+    {
+      "title" : "Chapter III. The Dominant Primordial Beast (4)",
+      "index" : 14
+    },
+    {
+      "title" : "Chapter III. The Dominant Primordial Beast (5)",
+      "index" : 15
+    },
+    {
+      "title" : "Chapter IV. Who Has Won to Mastership",
+      "index" : 16
+    },
+    {
+      "index" : 17,
+      "title" : "Chapter IV. Who Has Won to Mastership (2)"
+    },
+    {
+      "title" : "Chapter IV. Who Has Won to Mastership (3)",
+      "index" : 18
+    },
+    {
+      "index" : 19,
+      "title" : "Chapter IV. Who Has Won to Mastership (4)"
+    },
+    {
+      "title" : "Chapter V. The Toil of Trace and Trail",
+      "index" : 20
+    },
+    {
+      "title" : "Chapter V. The Toil of Trace and Trail (2)",
+      "index" : 21
+    },
+    {
+      "index" : 22,
+      "title" : "Chapter V. The Toil of Trace and Trail (3)"
+    },
+    {
+      "title" : "Chapter V. The Toil of Trace and Trail (4)",
+      "index" : 23
+    },
+    {
+      "title" : "Chapter V. The Toil of Trace and Trail (5)",
+      "index" : 24
+    },
+    {
+      "title" : "Chapter V. The Toil of Trace and Trail (6)",
+      "index" : 25
+    },
+    {
+      "index" : 26,
+      "title" : "Chapter V. The Toil of Trace and Trail (7)"
+    },
+    {
+      "index" : 27,
+      "title" : "Chapter VI. For the Love of a Man"
+    },
+    {
+      "index" : 28,
+      "title" : "Chapter VI. For the Love of a Man (2)"
+    },
+    {
+      "title" : "Chapter VI. For the Love of a Man (3)",
+      "index" : 29
+    },
+    {
+      "title" : "Chapter VI. For the Love of a Man (4)",
+      "index" : 30
+    },
+    {
+      "index" : 31,
+      "title" : "Chapter VI. For the Love of a Man (5)"
+    },
+    {
+      "index" : 32,
+      "title" : "Chapter VI. For the Love of a Man (6)"
+    },
+    {
+      "title" : "Chapter VI. For the Love of a Man (7)",
+      "index" : 33
+    },
+    {
+      "index" : 34,
+      "title" : "Chapter VII. The Sounding of the Call"
+    },
+    {
+      "index" : 35,
+      "title" : "Chapter VII. The Sounding of the Call (2)"
+    },
+    {
+      "title" : "Chapter VII. The Sounding of the Call (3)",
+      "index" : 36
+    },
+    {
+      "index" : 37,
+      "title" : "Chapter VII. The Sounding of the Call (4)"
+    },
+    {
+      "index" : 38,
+      "title" : "Chapter VII. The Sounding of the Call (5)"
+    },
+    {
+      "index" : 39,
       "title" : "THE FULL PROJECT GUTENBERG™ LICENSE"
     }
   ],
-  "firestoreId" : "THECALLOFTHEWILD"
+  "title" : "The call of the wild"
 }
